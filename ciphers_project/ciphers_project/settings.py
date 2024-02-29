@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-z9eeuwi5-9s3v6zgwciw)1oidan)pbsn3tauyn3*77dl6q85kt
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://ciphers-service-honey-mahimna.onrender.com/",
+    "ciphers-service-honey-mahimna.onrender.com",
 ]
 
 
