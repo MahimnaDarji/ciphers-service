@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-z9eeuwi5-9s3v6zgwciw)1oidan)pbsn3tauyn3*77dl6q85kt
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "https://ciphers-service-honey-mahimna.onrender.com/",
+]
 
 
 # Application definition
